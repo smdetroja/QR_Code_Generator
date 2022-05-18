@@ -1,3 +1,5 @@
+// <!-- All rights reserved smdetroja  -->
+
 const wrapper = document.querySelector(".wrapper"),
 qrInput = wrapper.querySelector(".form input"),
 generateBtn = wrapper.querySelector(".form button"),
@@ -22,3 +24,5 @@ qrInput.addEventListener("keyup", () => {
         preValue = "";
     }
 });
+
+// <!-- All rights reserved smdetroja  -->
